@@ -24,3 +24,7 @@
 10. 点击欢迎下面的“跳转至实用工具”
 
 11. 完成！
+
+# Contact
+
+[联系作者](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=484029294&website=www.oicqzone.com)
