@@ -20,3 +20,7 @@
 # Contact
 
 [联系作者](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=484029294&website=www.oicqzone.com)
+
+# Use on Github Page
+
+只需访问：got991.github.io/Web_Utilities/index.html
